@@ -19,7 +19,7 @@
     - 📝 Logging automático para auditoria.
 
  Disclaimer:
-    Developed for educational purposes and authorized defense monitoring only.
+    Esta ferramenta foi desenvolvida para fins educacionais e monitoramento defensivo. O autor não se responsabiliza pelo mau uso.
 ------------------------------------------------------------------------------
 """
 
